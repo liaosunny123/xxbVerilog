@@ -34,6 +34,6 @@ and myand1(t2,sw_i[1],sw_i[2]);
 or myor1(t3,t1,t2);
 
 assign led_o[15] = t3;
-assign led_o[14] = ~sw_i[3];
+assign led_o[14] = ~sw_i[4];
 
 endmodule

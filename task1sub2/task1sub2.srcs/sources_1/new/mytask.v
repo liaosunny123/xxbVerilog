@@ -26,8 +26,14 @@ module mytask(
     output [15:0]led_o
     );
     
-assign led_o[14] = (sw_i[1] & ~sw_i[3]) | (~sw_i[3] & sw_i[4]) | (~sw_i[1] & sw_i[3] & sw_i[4]);
+wire t1,t2,t3;
 
-assign led_o[15] = (~sw_i[4] & ~sw_i[3]) | (~sw_i[3] & ~sw_i[1]) | (~sw_i[3] & sw_i[1] & sw_i[2]);
+xor myxor(t1,sw_i[3],sw_i[4]);
+and myand1(t2,sw_i[1],sw_i[2]);
+
+or myor1(t3,t1,t2);
+
+assign led_o[15] = t3;
+assign led_o[14] = ~sw_i[3];
 
 endmodule

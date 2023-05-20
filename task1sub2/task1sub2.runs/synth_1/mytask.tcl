@@ -38,8 +38,8 @@ read_verilog -library xil_defaultlib F:/Vivado/2023xxbGrade1/task1sub2/task1sub2
 foreach dcp [get_files -quiet -all -filter file_type=="Design\ Checkpoint"] {
   set_property used_in_implementation false $dcp
 }
-read_xdc F:/Vivado/2023xxbGrade1/icf.xdc
-set_property used_in_implementation false [get_files F:/Vivado/2023xxbGrade1/icf.xdc]
+read_xdc F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc
+set_property used_in_implementation false [get_files F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc]
 
 set_param ips.enableIPCacheLiteLoad 1
 close [open __synthesis_is_running__ w]

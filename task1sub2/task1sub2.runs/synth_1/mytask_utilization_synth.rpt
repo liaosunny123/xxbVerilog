@@ -1,7 +1,7 @@
 Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
 -------------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
-| Date         : Wed May 17 10:39:14 2023
+| Date         : Sat May 20 00:22:56 2023
 | Host         : EpicMoWindows running 64-bit major release  (build 9200)
 | Command      : report_utilization -file mytask_utilization_synth.rpt -pb mytask_utilization_synth.pb
 | Design       : mytask
@@ -150,7 +150,7 @@ Table of Contents
 | IBUF     |    4 |                  IO |
 | OBUF     |    2 |                  IO |
 | LUT4     |    1 |                 LUT |
-| LUT3     |    1 |                 LUT |
+| LUT1     |    1 |                 LUT |
 +----------+------+---------------------+
 
 

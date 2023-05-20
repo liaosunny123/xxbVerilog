@@ -19,7 +19,6 @@
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
-
 module mytask(
     input clk,
     input rstn,
@@ -28,6 +27,7 @@ module mytask(
     );
  
 wire t1,t2;
+
 nand nand1(t1,sw_i[2:2],sw_i[1:1]);
 nand nand2(t2,sw_i[3:3],sw_i[1:1]);
 nand(led_o[15],t1,t2);

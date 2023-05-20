@@ -15,88 +15,88 @@ Design is defaulting to constrset: constrs_1
 INFO: [Project 1-479] Netlist was created with Vivado 2018.3
 INFO: [Device 21-403] Loading part xc7a100tcsg324-1
 INFO: [Project 1-570] Preparing netlist for logic optimization
-Parsing XDC File [F:/Vivado/2023xxbGrade1/icf.xdc]
-WARNING: [Vivado 12-507] No nets matched 'sw_i_IBUF[15]'. [F:/Vivado/2023xxbGrade1/icf.xdc:5]
-CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/icf.xdc:5]
+Parsing XDC File [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc]
+WARNING: [Vivado 12-507] No nets matched 'sw_i_IBUF[15]'. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:5]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:5]
 Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
-WARNING: [Vivado 12-507] No nets matched 'BTNC_IBUF'. [F:/Vivado/2023xxbGrade1/icf.xdc:6]
-CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/icf.xdc:6]
+WARNING: [Vivado 12-507] No nets matched 'BTNC_IBUF'. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:6]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:6]
 Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
-WARNING: [Vivado 12-584] No ports matched 'disp_seg_o[0]'. [F:/Vivado/2023xxbGrade1/icf.xdc:9]
-CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/icf.xdc:9]
+WARNING: [Vivado 12-584] No ports matched 'disp_seg_o[0]'. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:9]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:9]
 Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
-WARNING: [Vivado 12-584] No ports matched 'disp_seg_o[1]'. [F:/Vivado/2023xxbGrade1/icf.xdc:10]
-CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/icf.xdc:10]
+WARNING: [Vivado 12-584] No ports matched 'disp_seg_o[1]'. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:10]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:10]
 Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
-WARNING: [Vivado 12-584] No ports matched 'disp_seg_o[2]'. [F:/Vivado/2023xxbGrade1/icf.xdc:11]
-CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/icf.xdc:11]
+WARNING: [Vivado 12-584] No ports matched 'disp_seg_o[2]'. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:11]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:11]
 Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
-WARNING: [Vivado 12-584] No ports matched 'disp_seg_o[3]'. [F:/Vivado/2023xxbGrade1/icf.xdc:12]
-CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/icf.xdc:12]
+WARNING: [Vivado 12-584] No ports matched 'disp_seg_o[3]'. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:12]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:12]
 Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
-WARNING: [Vivado 12-584] No ports matched 'disp_seg_o[4]'. [F:/Vivado/2023xxbGrade1/icf.xdc:13]
-CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/icf.xdc:13]
+WARNING: [Vivado 12-584] No ports matched 'disp_seg_o[4]'. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:13]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:13]
 Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
-WARNING: [Vivado 12-584] No ports matched 'disp_seg_o[5]'. [F:/Vivado/2023xxbGrade1/icf.xdc:14]
-CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/icf.xdc:14]
+WARNING: [Vivado 12-584] No ports matched 'disp_seg_o[5]'. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:14]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:14]
 Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
-WARNING: [Vivado 12-584] No ports matched 'disp_seg_o[6]'. [F:/Vivado/2023xxbGrade1/icf.xdc:15]
-CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/icf.xdc:15]
+WARNING: [Vivado 12-584] No ports matched 'disp_seg_o[6]'. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:15]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:15]
 Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
-WARNING: [Vivado 12-584] No ports matched 'disp_seg_o[7]'. [F:/Vivado/2023xxbGrade1/icf.xdc:16]
-CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/icf.xdc:16]
+WARNING: [Vivado 12-584] No ports matched 'disp_seg_o[7]'. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:16]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:16]
 Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
-WARNING: [Vivado 12-584] No ports matched 'disp_an_o[0]'. [F:/Vivado/2023xxbGrade1/icf.xdc:18]
-CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/icf.xdc:18]
+WARNING: [Vivado 12-584] No ports matched 'disp_an_o[0]'. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:18]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:18]
 Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
-WARNING: [Vivado 12-584] No ports matched 'disp_an_o[1]'. [F:/Vivado/2023xxbGrade1/icf.xdc:19]
-CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/icf.xdc:19]
+WARNING: [Vivado 12-584] No ports matched 'disp_an_o[1]'. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:19]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:19]
 Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
-WARNING: [Vivado 12-584] No ports matched 'disp_an_o[2]'. [F:/Vivado/2023xxbGrade1/icf.xdc:20]
-CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/icf.xdc:20]
+WARNING: [Vivado 12-584] No ports matched 'disp_an_o[2]'. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:20]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:20]
 Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
-WARNING: [Vivado 12-584] No ports matched 'disp_an_o[3]'. [F:/Vivado/2023xxbGrade1/icf.xdc:21]
-CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/icf.xdc:21]
+WARNING: [Vivado 12-584] No ports matched 'disp_an_o[3]'. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:21]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:21]
 Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
-WARNING: [Vivado 12-584] No ports matched 'disp_an_o[4]'. [F:/Vivado/2023xxbGrade1/icf.xdc:22]
-CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/icf.xdc:22]
+WARNING: [Vivado 12-584] No ports matched 'disp_an_o[4]'. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:22]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:22]
 Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
-WARNING: [Vivado 12-584] No ports matched 'disp_an_o[5]'. [F:/Vivado/2023xxbGrade1/icf.xdc:23]
-CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/icf.xdc:23]
+WARNING: [Vivado 12-584] No ports matched 'disp_an_o[5]'. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:23]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:23]
 Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
-WARNING: [Vivado 12-584] No ports matched 'disp_an_o[6]'. [F:/Vivado/2023xxbGrade1/icf.xdc:24]
-CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/icf.xdc:24]
+WARNING: [Vivado 12-584] No ports matched 'disp_an_o[6]'. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:24]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:24]
 Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
-WARNING: [Vivado 12-584] No ports matched 'disp_an_o[7]'. [F:/Vivado/2023xxbGrade1/icf.xdc:25]
-CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/icf.xdc:25]
+WARNING: [Vivado 12-584] No ports matched 'disp_an_o[7]'. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:25]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:25]
 Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
-WARNING: [Vivado 12-584] No ports matched 'CPU_RESETN'. [F:/Vivado/2023xxbGrade1/icf.xdc:66]
-CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/icf.xdc:66]
+WARNING: [Vivado 12-584] No ports matched 'CPU_RESETN'. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:66]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:66]
 Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
-WARNING: [Vivado 12-584] No ports matched 'BTNC'. [F:/Vivado/2023xxbGrade1/icf.xdc:67]
-CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/icf.xdc:67]
+WARNING: [Vivado 12-584] No ports matched 'BTNC'. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:67]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:67]
 Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
-WARNING: [Vivado 12-584] No ports matched 'BTNU'. [F:/Vivado/2023xxbGrade1/icf.xdc:68]
-CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/icf.xdc:68]
+WARNING: [Vivado 12-584] No ports matched 'BTNU'. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:68]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:68]
 Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
-WARNING: [Vivado 12-584] No ports matched 'BTNL'. [F:/Vivado/2023xxbGrade1/icf.xdc:69]
-CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/icf.xdc:69]
+WARNING: [Vivado 12-584] No ports matched 'BTNL'. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:69]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:69]
 Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
-WARNING: [Vivado 12-584] No ports matched 'BTNR'. [F:/Vivado/2023xxbGrade1/icf.xdc:70]
-CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/icf.xdc:70]
+WARNING: [Vivado 12-584] No ports matched 'BTNR'. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:70]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:70]
 Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
-WARNING: [Vivado 12-584] No ports matched 'BTND'. [F:/Vivado/2023xxbGrade1/icf.xdc:71]
-CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/icf.xdc:71]
+WARNING: [Vivado 12-584] No ports matched 'BTND'. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:71]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc:71]
 Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
-Finished Parsing XDC File [F:/Vivado/2023xxbGrade1/icf.xdc]
+Finished Parsing XDC File [F:/Vivado/2023xxbGrade1/task1sub2/icf.xdc]
 INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
-Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 657.691 ; gain = 0.000
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 659.129 ; gain = 0.000
 INFO: [Project 1-111] Unisim Transformation Summary:
 No Unisim elements were transformed.
 
 5 Infos, 24 Warnings, 24 Critical Warnings and 0 Errors encountered.
 link_design completed successfully
-link_design: Time (s): cpu = 00:00:02 ; elapsed = 00:00:06 . Memory (MB): peak = 661.676 ; gain = 337.391
+link_design: Time (s): cpu = 00:00:02 ; elapsed = 00:00:07 . Memory (MB): peak = 663.188 ; gain = 338.633
 Command: opt_design
 Attempting to get a license for feature 'Implementation' and/or device 'xc7a100t'
 INFO: [Common 17-349] Got license for feature 'Implementation' and/or device 'xc7a100t'
@@ -107,53 +107,53 @@ INFO: [DRC 23-27] Running DRC with 2 threads
 INFO: [Project 1-461] DRC finished with 0 Errors
 INFO: [Project 1-462] Please refer to the DRC report (report_drc) for more information.
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.468 . Memory (MB): peak = 669.074 ; gain = 7.398
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.487 . Memory (MB): peak = 671.492 ; gain = 8.305
 
 Starting Cache Timing Information Task
 INFO: [Timing 38-35] Done setting XDC timing constraints.
-Ending Cache Timing Information Task | Checksum: 2a941d12a
+Ending Cache Timing Information Task | Checksum: 1eb729f2f
 
-Time (s): cpu = 00:00:03 ; elapsed = 00:00:08 . Memory (MB): peak = 1206.633 ; gain = 537.559
+Time (s): cpu = 00:00:04 ; elapsed = 00:00:10 . Memory (MB): peak = 1200.844 ; gain = 529.352
 
 Starting Logic Optimization Task
 
 Phase 1 Retarget
 INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
 INFO: [Opt 31-49] Retargeted 0 cell(s).
-Phase 1 Retarget | Checksum: 2a941d12a
+Phase 1 Retarget | Checksum: 1eb729f2f
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.005 . Memory (MB): peak = 1303.121 ; gain = 0.000
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.005 . Memory (MB): peak = 1297.277 ; gain = 0.000
 INFO: [Opt 31-389] Phase Retarget created 0 cells and removed 0 cells
 
 Phase 2 Constant propagation
 INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
-Phase 2 Constant propagation | Checksum: 2a941d12a
+Phase 2 Constant propagation | Checksum: 1eb729f2f
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.006 . Memory (MB): peak = 1303.121 ; gain = 0.000
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.006 . Memory (MB): peak = 1297.277 ; gain = 0.000
 INFO: [Opt 31-389] Phase Constant propagation created 0 cells and removed 0 cells
 
 Phase 3 Sweep
-Phase 3 Sweep | Checksum: 2a941d12a
+Phase 3 Sweep | Checksum: 1eb729f2f
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.007 . Memory (MB): peak = 1303.121 ; gain = 0.000
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.007 . Memory (MB): peak = 1297.277 ; gain = 0.000
 INFO: [Opt 31-389] Phase Sweep created 0 cells and removed 0 cells
 
 Phase 4 BUFG optimization
-Phase 4 BUFG optimization | Checksum: 2a941d12a
+Phase 4 BUFG optimization | Checksum: 1eb729f2f
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.008 . Memory (MB): peak = 1303.121 ; gain = 0.000
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.008 . Memory (MB): peak = 1297.277 ; gain = 0.000
 INFO: [Opt 31-662] Phase BUFG optimization created 0 cells of which 0 are BUFGs and removed 0 cells.
 
 Phase 5 Shift Register Optimization
-Phase 5 Shift Register Optimization | Checksum: 2a941d12a
+Phase 5 Shift Register Optimization | Checksum: 1eb729f2f
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.022 . Memory (MB): peak = 1303.121 ; gain = 0.000
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.020 . Memory (MB): peak = 1297.277 ; gain = 0.000
 INFO: [Opt 31-389] Phase Shift Register Optimization created 0 cells and removed 0 cells
 
 Phase 6 Post Processing Netlist
-Phase 6 Post Processing Netlist | Checksum: 2a941d12a
+Phase 6 Post Processing Netlist | Checksum: 1eb729f2f
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.023 . Memory (MB): peak = 1303.121 ; gain = 0.000
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.021 . Memory (MB): peak = 1297.277 ; gain = 0.000
 INFO: [Opt 31-389] Phase Post Processing Netlist created 0 cells and removed 0 cells
 Opt_design Change Summary
 =========================
@@ -174,39 +174,39 @@ Opt_design Change Summary
 
 Starting Connectivity Check Task
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1303.121 ; gain = 0.000
-Ending Logic Optimization Task | Checksum: 2a941d12a
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.001 . Memory (MB): peak = 1297.277 ; gain = 0.000
+Ending Logic Optimization Task | Checksum: 1eb729f2f
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.025 . Memory (MB): peak = 1303.121 ; gain = 0.000
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.023 . Memory (MB): peak = 1297.277 ; gain = 0.000
 
 Starting Power Optimization Task
 INFO: [Pwropt 34-132] Skipping clock gating for clocks with a period < 2.00 ns.
-Ending Power Optimization Task | Checksum: 2a941d12a
+Ending Power Optimization Task | Checksum: 1eb729f2f
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.006 . Memory (MB): peak = 1303.121 ; gain = 0.000
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.008 . Memory (MB): peak = 1297.277 ; gain = 0.000
 
 Starting Final Cleanup Task
-Ending Final Cleanup Task | Checksum: 2a941d12a
+Ending Final Cleanup Task | Checksum: 1eb729f2f
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1303.121 ; gain = 0.000
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1297.277 ; gain = 0.000
 
 Starting Netlist Obfuscation Task
-Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1303.121 ; gain = 0.000
-Ending Netlist Obfuscation Task | Checksum: 2a941d12a
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1297.277 ; gain = 0.000
+Ending Netlist Obfuscation Task | Checksum: 1eb729f2f
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1303.121 ; gain = 0.000
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.001 . Memory (MB): peak = 1297.277 ; gain = 0.000
 INFO: [Common 17-83] Releasing license: Implementation
 21 Infos, 24 Warnings, 24 Critical Warnings and 0 Errors encountered.
 opt_design completed successfully
-opt_design: Time (s): cpu = 00:00:04 ; elapsed = 00:00:09 . Memory (MB): peak = 1303.121 ; gain = 641.445
-Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1303.121 ; gain = 0.000
+opt_design: Time (s): cpu = 00:00:04 ; elapsed = 00:00:11 . Memory (MB): peak = 1297.277 ; gain = 634.090
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1297.277 ; gain = 0.000
 INFO: [Timing 38-480] Writing timing data to binary archive.
 Writing placer database...
 Writing XDEF routing.
 Writing XDEF routing logical nets.
 Writing XDEF routing special nets.
-Write XDEF Complete: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.024 . Memory (MB): peak = 1303.121 ; gain = 0.000
-Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1303.121 ; gain = 0.000
+Write XDEF Complete: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.032 . Memory (MB): peak = 1297.277 ; gain = 0.000
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1297.277 ; gain = 0.000
 INFO: [Common 17-1381] The checkpoint 'F:/Vivado/2023xxbGrade1/task1sub2/task1sub2.runs/impl_1/mytask_opt.dcp' has been generated.
 INFO: [runtcl-4] Executing : report_drc -file mytask_drc_opted.rpt -pb mytask_drc_opted.pb -rpx mytask_drc_opted.rpx
 Command: report_drc -file mytask_drc_opted.rpt -pb mytask_drc_opted.pb -rpx mytask_drc_opted.rpx
@@ -233,127 +233,127 @@ INFO: [Place 30-611] Multithreading enabled for place_design using a maximum of 
 Phase 1 Placer Initialization
 
 Phase 1.1 Placer Initialization Netlist Sorting
-Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1303.121 ; gain = 0.000
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1297.277 ; gain = 0.000
 Phase 1.1 Placer Initialization Netlist Sorting | Checksum: 1c69000d5
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.004 . Memory (MB): peak = 1303.121 ; gain = 0.000
-Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1303.121 ; gain = 0.000
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.003 . Memory (MB): peak = 1297.277 ; gain = 0.000
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1297.277 ; gain = 0.000
 
 Phase 1.2 IO Placement/ Clock Placement/ Build Placer Device
 INFO: [Timing 38-35] Done setting XDC timing constraints.
 Phase 1.2 IO Placement/ Clock Placement/ Build Placer Device | Checksum: 1c69000d5
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.514 . Memory (MB): peak = 1314.461 ; gain = 11.340
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.621 . Memory (MB): peak = 1311.438 ; gain = 14.160
 
 Phase 1.3 Build Placer Netlist Model
 Phase 1.3 Build Placer Netlist Model | Checksum: 2582125ba
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.549 . Memory (MB): peak = 1322.172 ; gain = 19.051
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.654 . Memory (MB): peak = 1319.105 ; gain = 21.828
 
 Phase 1.4 Constrain Clocks/Macros
 Phase 1.4 Constrain Clocks/Macros | Checksum: 2582125ba
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.551 . Memory (MB): peak = 1322.172 ; gain = 19.051
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.656 . Memory (MB): peak = 1319.105 ; gain = 21.828
 Phase 1 Placer Initialization | Checksum: 2582125ba
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.551 . Memory (MB): peak = 1322.172 ; gain = 19.051
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.657 . Memory (MB): peak = 1319.105 ; gain = 21.828
 
 Phase 2 Global Placement
 
 Phase 2.1 Floorplanning
 Phase 2.1 Floorplanning | Checksum: 2582125ba
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.553 . Memory (MB): peak = 1322.172 ; gain = 19.051
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.659 . Memory (MB): peak = 1319.105 ; gain = 21.828
 WARNING: [Place 46-29] place_design is not in timing mode. Skip physical synthesis in placer
-Phase 2 Global Placement | Checksum: 26ce5a52d
+Phase 2 Global Placement | Checksum: 29c21d4f5
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.709 . Memory (MB): peak = 1322.172 ; gain = 19.051
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.816 . Memory (MB): peak = 1319.105 ; gain = 21.828
 
 Phase 3 Detail Placement
 
 Phase 3.1 Commit Multi Column Macros
-Phase 3.1 Commit Multi Column Macros | Checksum: 26ce5a52d
+Phase 3.1 Commit Multi Column Macros | Checksum: 29c21d4f5
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.711 . Memory (MB): peak = 1322.172 ; gain = 19.051
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.817 . Memory (MB): peak = 1319.105 ; gain = 21.828
 
 Phase 3.2 Commit Most Macros & LUTRAMs
 Phase 3.2 Commit Most Macros & LUTRAMs | Checksum: 284e49280
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.715 . Memory (MB): peak = 1322.172 ; gain = 19.051
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.821 . Memory (MB): peak = 1319.105 ; gain = 21.828
 
 Phase 3.3 Area Swap Optimization
 Phase 3.3 Area Swap Optimization | Checksum: 1e524c28f
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.720 . Memory (MB): peak = 1322.172 ; gain = 19.051
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.827 . Memory (MB): peak = 1319.105 ; gain = 21.828
 
 Phase 3.4 Pipeline Register Optimization
 Phase 3.4 Pipeline Register Optimization | Checksum: 1e524c28f
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.721 . Memory (MB): peak = 1322.172 ; gain = 19.051
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.827 . Memory (MB): peak = 1319.105 ; gain = 21.828
 
 Phase 3.5 Small Shape Detail Placement
-Phase 3.5 Small Shape Detail Placement | Checksum: 2aa080d08
+Phase 3.5 Small Shape Detail Placement | Checksum: 22a75aa7c
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.857 . Memory (MB): peak = 1322.172 ; gain = 19.051
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.944 . Memory (MB): peak = 1319.105 ; gain = 21.828
 
 Phase 3.6 Re-assign LUT pins
-Phase 3.6 Re-assign LUT pins | Checksum: 2aa080d08
+Phase 3.6 Re-assign LUT pins | Checksum: 22a75aa7c
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.858 . Memory (MB): peak = 1322.172 ; gain = 19.051
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.945 . Memory (MB): peak = 1319.105 ; gain = 21.828
 
 Phase 3.7 Pipeline Register Optimization
-Phase 3.7 Pipeline Register Optimization | Checksum: 2aa080d08
+Phase 3.7 Pipeline Register Optimization | Checksum: 22a75aa7c
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.858 . Memory (MB): peak = 1322.172 ; gain = 19.051
-Phase 3 Detail Placement | Checksum: 2aa080d08
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.945 . Memory (MB): peak = 1319.105 ; gain = 21.828
+Phase 3 Detail Placement | Checksum: 22a75aa7c
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.859 . Memory (MB): peak = 1322.172 ; gain = 19.051
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.946 . Memory (MB): peak = 1319.105 ; gain = 21.828
 
 Phase 4 Post Placement Optimization and Clean-Up
 
 Phase 4.1 Post Commit Optimization
-Phase 4.1 Post Commit Optimization | Checksum: 2aa080d08
+Phase 4.1 Post Commit Optimization | Checksum: 22a75aa7c
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.860 . Memory (MB): peak = 1322.172 ; gain = 19.051
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.948 . Memory (MB): peak = 1319.105 ; gain = 21.828
 
 Phase 4.2 Post Placement Cleanup
-Phase 4.2 Post Placement Cleanup | Checksum: 2aa080d08
+Phase 4.2 Post Placement Cleanup | Checksum: 22a75aa7c
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.863 . Memory (MB): peak = 1322.172 ; gain = 19.051
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.951 . Memory (MB): peak = 1319.105 ; gain = 21.828
 
 Phase 4.3 Placer Reporting
-Phase 4.3 Placer Reporting | Checksum: 2aa080d08
+Phase 4.3 Placer Reporting | Checksum: 22a75aa7c
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.863 . Memory (MB): peak = 1322.172 ; gain = 19.051
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.951 . Memory (MB): peak = 1319.105 ; gain = 21.828
 
 Phase 4.4 Final Placement Cleanup
-Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1322.172 ; gain = 0.000
-Phase 4.4 Final Placement Cleanup | Checksum: 2aa080d08
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1319.105 ; gain = 0.000
+Phase 4.4 Final Placement Cleanup | Checksum: 22a75aa7c
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.864 . Memory (MB): peak = 1322.172 ; gain = 19.051
-Phase 4 Post Placement Optimization and Clean-Up | Checksum: 2aa080d08
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.952 . Memory (MB): peak = 1319.105 ; gain = 21.828
+Phase 4 Post Placement Optimization and Clean-Up | Checksum: 22a75aa7c
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.864 . Memory (MB): peak = 1322.172 ; gain = 19.051
-Ending Placer Task | Checksum: 1e6e39dac
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.952 . Memory (MB): peak = 1319.105 ; gain = 21.828
+Ending Placer Task | Checksum: 1318a6d0b
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.867 . Memory (MB): peak = 1322.172 ; gain = 19.051
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.956 . Memory (MB): peak = 1319.105 ; gain = 21.828
 INFO: [Common 17-83] Releasing license: Implementation
 39 Infos, 25 Warnings, 24 Critical Warnings and 0 Errors encountered.
 place_design completed successfully
-Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1322.172 ; gain = 0.000
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1319.105 ; gain = 0.000
 INFO: [Timing 38-480] Writing timing data to binary archive.
 Writing placer database...
 Writing XDEF routing.
 Writing XDEF routing logical nets.
 Writing XDEF routing special nets.
-Write XDEF Complete: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.030 . Memory (MB): peak = 1322.172 ; gain = 0.000
-Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1322.172 ; gain = 0.000
+Write XDEF Complete: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.025 . Memory (MB): peak = 1319.105 ; gain = 0.000
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1319.105 ; gain = 0.000
 INFO: [Common 17-1381] The checkpoint 'F:/Vivado/2023xxbGrade1/task1sub2/task1sub2.runs/impl_1/mytask_placed.dcp' has been generated.
 INFO: [runtcl-4] Executing : report_io -file mytask_io_placed.rpt
-report_io: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.048 . Memory (MB): peak = 1322.172 ; gain = 0.000
+report_io: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.040 . Memory (MB): peak = 1319.105 ; gain = 0.000
 INFO: [runtcl-4] Executing : report_utilization -file mytask_utilization_placed.rpt -pb mytask_utilization_placed.pb
 INFO: [runtcl-4] Executing : report_control_sets -verbose -file mytask_control_sets_placed.rpt
-report_control_sets: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.001 . Memory (MB): peak = 1322.172 ; gain = 0.000
+report_control_sets: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.001 . Memory (MB): peak = 1319.105 ; gain = 0.000
 Command: route_design
 Attempting to get a license for feature 'Implementation' and/or device 'xc7a100t'
 INFO: [Common 17-349] Got license for feature 'Implementation' and/or device 'xc7a100t'
@@ -365,92 +365,92 @@ INFO: [Vivado_Tcl 4-199] Please refer to the DRC report (report_drc) for more in
 
 Starting Routing Task
 INFO: [Route 35-254] Multithreading enabled for route_design using a maximum of 2 CPUs
-Checksum: PlaceDB: e9a2e63e ConstDB: 0 ShapeSum: fd40b76e RouteDB: 0
+Checksum: PlaceDB: 3449b59d ConstDB: 0 ShapeSum: fd40b76e RouteDB: 0
 
 Phase 1 Build RT Design
-Phase 1 Build RT Design | Checksum: f9a2b120
+Phase 1 Build RT Design | Checksum: c9378f30
 
-Time (s): cpu = 00:00:15 ; elapsed = 00:00:26 . Memory (MB): peak = 1437.293 ; gain = 115.121
-Post Restoration Checksum: NetGraph: 33ca20e4 NumContArr: c5d8903c Constraints: 0 Timing: 0
+Time (s): cpu = 00:00:11 ; elapsed = 00:00:29 . Memory (MB): peak = 1440.789 ; gain = 121.684
+Post Restoration Checksum: NetGraph: 264dde67 NumContArr: a2e9b0c9 Constraints: 0 Timing: 0
 
 Phase 2 Router Initialization
 
 Phase 2.1 Create Timer
 INFO: [Timing 38-35] Done setting XDC timing constraints.
-Phase 2.1 Create Timer | Checksum: f9a2b120
+Phase 2.1 Create Timer | Checksum: c9378f30
 
-Time (s): cpu = 00:00:15 ; elapsed = 00:00:26 . Memory (MB): peak = 1509.633 ; gain = 187.461
+Time (s): cpu = 00:00:11 ; elapsed = 00:00:29 . Memory (MB): peak = 1507.367 ; gain = 188.262
 
 Phase 2.2 Fix Topology Constraints
-Phase 2.2 Fix Topology Constraints | Checksum: f9a2b120
+Phase 2.2 Fix Topology Constraints | Checksum: c9378f30
 
-Time (s): cpu = 00:00:15 ; elapsed = 00:00:26 . Memory (MB): peak = 1517.348 ; gain = 195.176
+Time (s): cpu = 00:00:11 ; elapsed = 00:00:29 . Memory (MB): peak = 1515.008 ; gain = 195.902
 
 Phase 2.3 Pre Route Cleanup
-Phase 2.3 Pre Route Cleanup | Checksum: f9a2b120
+Phase 2.3 Pre Route Cleanup | Checksum: c9378f30
 
-Time (s): cpu = 00:00:15 ; elapsed = 00:00:26 . Memory (MB): peak = 1517.348 ; gain = 195.176
+Time (s): cpu = 00:00:11 ; elapsed = 00:00:29 . Memory (MB): peak = 1515.008 ; gain = 195.902
  Number of Nodes with overlaps = 0
 
 Phase 2.4 Update Timing
-Phase 2.4 Update Timing | Checksum: c560e52c
+Phase 2.4 Update Timing | Checksum: bf5674d6
 
-Time (s): cpu = 00:00:15 ; elapsed = 00:00:26 . Memory (MB): peak = 1521.402 ; gain = 199.230
-Phase 2 Router Initialization | Checksum: c560e52c
+Time (s): cpu = 00:00:12 ; elapsed = 00:00:29 . Memory (MB): peak = 1519.008 ; gain = 199.902
+Phase 2 Router Initialization | Checksum: bf5674d6
 
-Time (s): cpu = 00:00:15 ; elapsed = 00:00:26 . Memory (MB): peak = 1521.402 ; gain = 199.230
+Time (s): cpu = 00:00:12 ; elapsed = 00:00:29 . Memory (MB): peak = 1519.008 ; gain = 199.902
 
 Phase 3 Initial Routing
-Phase 3 Initial Routing | Checksum: 12bf0fca3
+Phase 3 Initial Routing | Checksum: 1b0333cd6
 
-Time (s): cpu = 00:00:15 ; elapsed = 00:00:26 . Memory (MB): peak = 1524.434 ; gain = 202.262
+Time (s): cpu = 00:00:12 ; elapsed = 00:00:29 . Memory (MB): peak = 1521.918 ; gain = 202.812
 
 Phase 4 Rip-up And Reroute
 
 Phase 4.1 Global Iteration 0
  Number of Nodes with overlaps = 0
-Phase 4.1 Global Iteration 0 | Checksum: 12510f01a
+Phase 4.1 Global Iteration 0 | Checksum: 9bbf0d3d
 
-Time (s): cpu = 00:00:15 ; elapsed = 00:00:26 . Memory (MB): peak = 1524.434 ; gain = 202.262
-Phase 4 Rip-up And Reroute | Checksum: 12510f01a
+Time (s): cpu = 00:00:12 ; elapsed = 00:00:29 . Memory (MB): peak = 1521.918 ; gain = 202.812
+Phase 4 Rip-up And Reroute | Checksum: 9bbf0d3d
 
-Time (s): cpu = 00:00:15 ; elapsed = 00:00:26 . Memory (MB): peak = 1524.434 ; gain = 202.262
+Time (s): cpu = 00:00:12 ; elapsed = 00:00:29 . Memory (MB): peak = 1521.918 ; gain = 202.812
 
 Phase 5 Delay and Skew Optimization
 
 Phase 5.1 Delay CleanUp
-Phase 5.1 Delay CleanUp | Checksum: 12510f01a
+Phase 5.1 Delay CleanUp | Checksum: 9bbf0d3d
 
-Time (s): cpu = 00:00:15 ; elapsed = 00:00:26 . Memory (MB): peak = 1524.434 ; gain = 202.262
+Time (s): cpu = 00:00:12 ; elapsed = 00:00:29 . Memory (MB): peak = 1521.918 ; gain = 202.812
 
 Phase 5.2 Clock Skew Optimization
-Phase 5.2 Clock Skew Optimization | Checksum: 12510f01a
+Phase 5.2 Clock Skew Optimization | Checksum: 9bbf0d3d
 
-Time (s): cpu = 00:00:15 ; elapsed = 00:00:26 . Memory (MB): peak = 1524.434 ; gain = 202.262
-Phase 5 Delay and Skew Optimization | Checksum: 12510f01a
+Time (s): cpu = 00:00:12 ; elapsed = 00:00:29 . Memory (MB): peak = 1521.918 ; gain = 202.812
+Phase 5 Delay and Skew Optimization | Checksum: 9bbf0d3d
 
-Time (s): cpu = 00:00:15 ; elapsed = 00:00:26 . Memory (MB): peak = 1524.434 ; gain = 202.262
+Time (s): cpu = 00:00:12 ; elapsed = 00:00:29 . Memory (MB): peak = 1521.918 ; gain = 202.812
 
 Phase 6 Post Hold Fix
 
 Phase 6.1 Hold Fix Iter
 
 Phase 6.1.1 Update Timing
-Phase 6.1.1 Update Timing | Checksum: 12510f01a
+Phase 6.1.1 Update Timing | Checksum: 9bbf0d3d
 
-Time (s): cpu = 00:00:15 ; elapsed = 00:00:26 . Memory (MB): peak = 1524.434 ; gain = 202.262
-Phase 6.1 Hold Fix Iter | Checksum: 12510f01a
+Time (s): cpu = 00:00:12 ; elapsed = 00:00:29 . Memory (MB): peak = 1521.918 ; gain = 202.812
+Phase 6.1 Hold Fix Iter | Checksum: 9bbf0d3d
 
-Time (s): cpu = 00:00:15 ; elapsed = 00:00:26 . Memory (MB): peak = 1524.434 ; gain = 202.262
-Phase 6 Post Hold Fix | Checksum: 12510f01a
+Time (s): cpu = 00:00:12 ; elapsed = 00:00:29 . Memory (MB): peak = 1521.918 ; gain = 202.812
+Phase 6 Post Hold Fix | Checksum: 9bbf0d3d
 
-Time (s): cpu = 00:00:15 ; elapsed = 00:00:26 . Memory (MB): peak = 1524.434 ; gain = 202.262
+Time (s): cpu = 00:00:12 ; elapsed = 00:00:29 . Memory (MB): peak = 1521.918 ; gain = 202.812
 
 Phase 7 Route finalize
 
 Router Utilization Summary
-  Global Vertical Routing Utilization    = 0.00287244 %
-  Global Horizontal Routing Utilization  = 0.000923558 %
+  Global Vertical Routing Utilization    = 0.00295948 %
+  Global Horizontal Routing Utilization  = 0.00113669 %
   Routable Net Status*
   *Does not include unroutable nets such as driverless and loadless.
   Run report_route_status for detailed report.
@@ -459,43 +459,43 @@ Router Utilization Summary
   Number of Partially Routed Nets     = 0
   Number of Node Overlaps             = 0
 
-Phase 7 Route finalize | Checksum: 12510f01a
+Phase 7 Route finalize | Checksum: 9bbf0d3d
 
-Time (s): cpu = 00:00:15 ; elapsed = 00:00:26 . Memory (MB): peak = 1524.434 ; gain = 202.262
+Time (s): cpu = 00:00:12 ; elapsed = 00:00:29 . Memory (MB): peak = 1521.918 ; gain = 202.812
 
 Phase 8 Verifying routed nets
 
  Verification completed successfully
-Phase 8 Verifying routed nets | Checksum: 12510f01a
+Phase 8 Verifying routed nets | Checksum: 9bbf0d3d
 
-Time (s): cpu = 00:00:15 ; elapsed = 00:00:26 . Memory (MB): peak = 1526.461 ; gain = 204.289
+Time (s): cpu = 00:00:12 ; elapsed = 00:00:29 . Memory (MB): peak = 1523.984 ; gain = 204.879
 
 Phase 9 Depositing Routes
-Phase 9 Depositing Routes | Checksum: 12510f01a
+Phase 9 Depositing Routes | Checksum: 8f850559
 
-Time (s): cpu = 00:00:15 ; elapsed = 00:00:26 . Memory (MB): peak = 1526.461 ; gain = 204.289
+Time (s): cpu = 00:00:12 ; elapsed = 00:00:29 . Memory (MB): peak = 1523.984 ; gain = 204.879
 
 Phase 10 Post Router Timing
-Phase 10 Post Router Timing | Checksum: 12510f01a
+Phase 10 Post Router Timing | Checksum: 8f850559
 
-Time (s): cpu = 00:00:15 ; elapsed = 00:00:26 . Memory (MB): peak = 1526.461 ; gain = 204.289
+Time (s): cpu = 00:00:12 ; elapsed = 00:00:29 . Memory (MB): peak = 1523.984 ; gain = 204.879
 INFO: [Route 35-16] Router Completed Successfully
 
-Time (s): cpu = 00:00:15 ; elapsed = 00:00:26 . Memory (MB): peak = 1526.461 ; gain = 204.289
+Time (s): cpu = 00:00:12 ; elapsed = 00:00:29 . Memory (MB): peak = 1523.984 ; gain = 204.879
 
 Routing Is Done.
 INFO: [Common 17-83] Releasing license: Implementation
 52 Infos, 25 Warnings, 24 Critical Warnings and 0 Errors encountered.
 route_design completed successfully
-route_design: Time (s): cpu = 00:00:16 ; elapsed = 00:00:27 . Memory (MB): peak = 1526.461 ; gain = 204.289
-Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1526.461 ; gain = 0.000
+route_design: Time (s): cpu = 00:00:12 ; elapsed = 00:00:30 . Memory (MB): peak = 1523.984 ; gain = 204.879
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1523.984 ; gain = 0.000
 INFO: [Timing 38-480] Writing timing data to binary archive.
 Writing placer database...
 Writing XDEF routing.
 Writing XDEF routing logical nets.
 Writing XDEF routing special nets.
-Write XDEF Complete: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.024 . Memory (MB): peak = 1526.461 ; gain = 0.000
-Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1526.461 ; gain = 0.000
+Write XDEF Complete: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.025 . Memory (MB): peak = 1523.984 ; gain = 0.000
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1523.984 ; gain = 0.000
 INFO: [Common 17-1381] The checkpoint 'F:/Vivado/2023xxbGrade1/task1sub2/task1sub2.runs/impl_1/mytask_routed.dcp' has been generated.
 INFO: [runtcl-4] Executing : report_drc -file mytask_drc_routed.rpt -pb mytask_drc_routed.pb -rpx mytask_drc_routed.rpx
 Command: report_drc -file mytask_drc_routed.rpt -pb mytask_drc_routed.pb -rpx mytask_drc_routed.rpx
@@ -527,7 +527,7 @@ INFO: [runtcl-4] Executing : report_clock_utilization -file mytask_clock_utiliza
 INFO: [runtcl-4] Executing : report_bus_skew -warn_on_violation -file mytask_bus_skew_routed.rpt -pb mytask_bus_skew_routed.pb -rpx mytask_bus_skew_routed.rpx
 INFO: [Timing 38-91] UpdateTimingParams: Speed grade: -1, Delay Type: min_max.
 INFO: [Timing 38-191] Multithreading enabled for timing update using a maximum of 2 CPUs
-INFO: [Common 17-206] Exiting Vivado at Wed May 17 10:40:25 2023...
+INFO: [Common 17-206] Exiting Vivado at Sat May 20 00:24:10 2023...
 
 *** Running vivado
     with args -log mytask.vdi -applog -m64 -product Vivado -messageDb vivado.pb -mode batch -source mytask.tcl -notrace
@@ -543,7 +543,7 @@ Command: open_checkpoint mytask_routed.dcp
 
 Starting open_checkpoint Task
 
-Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.026 . Memory (MB): peak = 260.602 ; gain = 0.000
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.034 . Memory (MB): peak = 257.387 ; gain = 0.000
 INFO: [Project 1-479] Netlist was created with Vivado 2018.3
 INFO: [Device 21-403] Loading part xc7a100tcsg324-1
 INFO: [Project 1-570] Preparing netlist for logic optimization
@@ -554,15 +554,15 @@ INFO: [Project 1-853] Binary constraint restore complete.
 Reading XDEF placement.
 Reading placer database...
 Reading XDEF routing.
-Read XDEF File: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.084 . Memory (MB): peak = 1208.309 ; gain = 2.754
+Read XDEF File: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.075 . Memory (MB): peak = 1202.445 ; gain = 1.102
 Restored from archive | CPU: 0.000000 secs | Memory: 0.000000 MB |
-Finished XDEF File Restore: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.085 . Memory (MB): peak = 1208.309 ; gain = 2.754
-Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1208.336 ; gain = 0.000
+Finished XDEF File Restore: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.075 . Memory (MB): peak = 1202.445 ; gain = 1.102
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1202.449 ; gain = 0.000
 INFO: [Project 1-111] Unisim Transformation Summary:
 No Unisim elements were transformed.
 
 INFO: [Project 1-604] Checkpoint was created with Vivado v2018.3 (64-bit) build 2405991
-open_checkpoint: Time (s): cpu = 00:00:04 ; elapsed = 00:00:17 . Memory (MB): peak = 1208.336 ; gain = 947.734
+open_checkpoint: Time (s): cpu = 00:00:02 ; elapsed = 00:00:16 . Memory (MB): peak = 1202.449 ; gain = 945.062
 Command: write_bitstream -force mytask.bit
 Attempting to get a license for feature 'Implementation' and/or device 'xc7a100t'
 INFO: [Common 17-349] Got license for feature 'Implementation' and/or device 'xc7a100t'
@@ -595,5 +595,5 @@ INFO: [Project 1-120] WebTalk data collection is mandatory when using a WebPACK 
 INFO: [Common 17-83] Releasing license: Implementation
 20 Infos, 1 Warnings, 0 Critical Warnings and 0 Errors encountered.
 write_bitstream completed successfully
-write_bitstream: Time (s): cpu = 00:00:08 ; elapsed = 00:00:16 . Memory (MB): peak = 1710.652 ; gain = 502.316
-INFO: [Common 17-206] Exiting Vivado at Wed May 17 10:41:22 2023...
+write_bitstream: Time (s): cpu = 00:00:04 ; elapsed = 00:00:15 . Memory (MB): peak = 1704.816 ; gain = 502.367
+INFO: [Common 17-206] Exiting Vivado at Sat May 20 00:25:01 2023...
